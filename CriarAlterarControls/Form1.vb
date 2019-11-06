@@ -8,7 +8,7 @@
     End Structure
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-
+        ' freoiufsh
         For i = 1 To 6
             'Dim TB As New TextBox With {.Name = "TBox_" & i}
             Dim TB As New TextBox
